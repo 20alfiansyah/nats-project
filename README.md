@@ -24,15 +24,15 @@
 * voila!! you can fill input field to write some messages to other devices that already subscribed the ROOM1 subject
 ***
 ## DOCUMENTATION
-> Doesnt Connect
+* Doesnt Connect
 ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/62f2f3f3-2e66-4026-9931-3d1f294f8f2b)
-> Connected
+* Connected
 ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/190f1924-f033-46d9-ad0d-0c3c76692e32)
-> Communication
+* Communication
 ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/129f7cb7-7e10-417e-a0fc-6c6091535f5d)
-* From Device 1 (Alfian)
+ * From Device 1 (Alfian)
   ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/0e1160aa-7e48-462d-85e3-1db8ee750a35)
-* From Device 2 (Farhan)
+ * From Device 2 (Farhan)
   ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/781c8adc-399d-4a5e-8afa-ae45d3778aaf)
 ***
 # THANK YOU!
