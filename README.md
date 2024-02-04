@@ -21,7 +21,7 @@
     ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/30f7598b-f5ce-42da-9929-fbfa4ca7464e)
   * if dont subcribed yet <br>
     ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/fb297f97-1839-4795-948e-245e7fd9a395)
-* voila!! you can fill input field to write some messages to other devices that already subscribed the ROOM1 subject
+* voila!!:grinning: you can fill input field to write some messages to other devices that already subscribed the ROOM1 subject
 ***
 ## DOCUMENTATION
 * Doesnt Connect
@@ -35,4 +35,4 @@
  * From Device 2 (Farhan)
   ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/781c8adc-399d-4a5e-8afa-ae45d3778aaf)
 ***
-# THANK YOU!
+# THANK YOU!:grinning::grinning:
