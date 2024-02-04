@@ -29,10 +29,10 @@
 * Connected
 ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/190f1924-f033-46d9-ad0d-0c3c76692e32)
 * Communication
-![image](https://github.com/20alfiansyah/nats-project/assets/91005797/129f7cb7-7e10-417e-a0fc-6c6091535f5d)
+![image](https://github.com/20alfiansyah/nats-project/assets/91005797/4aa3a226-c630-49be-9099-f33b7a35c523)
  * From Device 1 (Alfian)
-  ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/0e1160aa-7e48-462d-85e3-1db8ee750a35)
+  ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/24a5e80f-7e2b-43af-8906-dcc33c61e83b)
  * From Device 2 (Farhan)
-  ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/781c8adc-399d-4a5e-8afa-ae45d3778aaf)
+  ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/ab0343d8-7381-4a81-8f21-5ffa15717942)
 ***
 # THANK YOU! :grinning: :grinning:
