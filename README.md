@@ -17,9 +17,9 @@
 * then you can subscribe first so the device can communicate each other with the nats-server
   * tap the avatar icon then subscribe and see the indicator change to green
     ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/83540171-86ca-452d-81ff-98c33a2b762b)
-  * if already subscribed
+  * if already subscribed <br>
     ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/30f7598b-f5ce-42da-9929-fbfa4ca7464e)
-  * if dont subcribed yet
+  * if dont subcribed yet <br>
     ![image](https://github.com/20alfiansyah/nats-project/assets/91005797/fb297f97-1839-4795-948e-245e7fd9a395)
 * voila!! you can fill input field to write some messages to other devices that already subscribed the ROOM1 subject
 ***
